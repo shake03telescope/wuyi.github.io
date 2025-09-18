@@ -23,13 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Wu Yi"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  avatar           : "me.png"
+  name             : "Wu Yi" 
+  bio              : "receive bachelor of Engineering in 2025"
+  location         : "China"
   employer         : "Hefei University of Technology"
-  uri              : # URL
   email            : "2025170759@@mail.hfut.edu.cn" 
 
   # Academic websites
